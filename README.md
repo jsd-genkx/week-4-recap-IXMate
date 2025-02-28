@@ -63,5 +63,5 @@ feat(css): styling layouts using Flexbox and Grid for responsive design
 Your Summary in Git commit message format:
 
 feat(sql): dont forget ; , * for all table, and syntax( selet from order by)
-- ?
+feat(html): semantic tag : <p><h1><selection>  non-semantic tag : <div>
 - ?
